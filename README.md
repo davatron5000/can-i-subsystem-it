@@ -1,4 +1,4 @@
-[# Can I Subsystem It?
+# Can I Subsystem It?
 
 Compiling a list of web development dependencies and their support on the Windows Subsystem for Linux (aka Bash on Ubuntu on Windows). 
 
