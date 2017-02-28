@@ -14,6 +14,7 @@ Compiling a list of web development dependencies and their support on the Window
 - [x] [rbenv](https://github.com/rbenv/rbenv)
 - [x] [Ruby](https://www.ruby-lang.org/)
 - [x] [Ruby on Rails](http://rubyonrails.org/)
+- [ ] [Node.js OS Network Interfaces](https://github.com/Microsoft/BashOnWindows/issues/468) (Requirement of [Browsersync](https://browsersync.io/), [Yeoman](http://yeoman.io/), [Hexo](https://hexo.io/), many others)
 
 ## Contributing
 
