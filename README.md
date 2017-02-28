@@ -25,7 +25,7 @@ Compiling a list of web development dependencies and their support on the Window
 There are some known overarching issues that affect a broad range of programs:
 
 - Editing Linux files in Windows apps results in data corruption. [See blog post](https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/).
-- Node.js Network Interface ([#468](https://github.com/Microsoft/BashOnWindows/issues/468))
+- Node.js Network Interface ([#468](https://github.com/Microsoft/BashOnWindows/issues/468) _FIXED IN INSIDER_)
 - NETLINK and ICMP ([#69](https://github.com/Microsoft/BashOnWindows/issues/69) _FIXED IN INSIDER_)
 - INOTIFY filewatching (_FIXED IN INSIDER_)
 
