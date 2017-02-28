@@ -5,7 +5,7 @@ Compiling a list of web development dependencies and their support on the Window
 - [x] [Gulp](http://gulpjs.com/)
 - [x] [Jekyll](http://jekyllrb.com/)
 - [ ] [Libsass](http://sass-lang.com/libsass)
-- [ ] [n](https://github.com/tj/n)
+- [x] [n](https://github.com/tj/n)
 - [ ] [ngrok](https://ngrok.com/)
 - [x] [Node.js](https://nodejs.org/en/)
 - [ ] [node-sass](https://github.com/sass/node-sass)
