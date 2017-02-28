@@ -4,6 +4,7 @@ Compiling a list of web development dependencies and their support on the Window
 
 - [x] [Gulp](http://gulpjs.com/)
 - [x] [Jekyll](http://jekyllrb.com/)
+- [ ] [Karma](https://karma-runner.github.io/1.0/index.html)
 - [ ] [Libsass](http://sass-lang.com/libsass)
 - [x] [n](https://github.com/tj/n)
 - [ ] [ngrok](https://ngrok.com/)
