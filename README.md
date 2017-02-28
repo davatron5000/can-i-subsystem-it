@@ -7,11 +7,11 @@ Compiling a list of web development dependencies and their support on the Window
 | [Gulp](http://gulpjs.com/)            |❌|✅||
 | [Jekyll](http://jekyllrb.com/)        |❌|✅||
 | [Karma](https://karma-runner.github.io/1.0/index.html) |❌|❌||
-| [Libsass](http://sass-lang.com/libsass)                |❌|❌||
+| [Libsass](http://sass-lang.com/libsass)                ||✅||
 | [n](https://github.com/tj/n)          ||✅||
 | [ngrok](https://ngrok.com/)           |❌|❌||
 | [Node.js](https://nodejs.org/en/)     |❌|✅||
-| [node-sass](https://github.com/sass/node-sass) |❌|❌||
+| [node-sass](https://github.com/sass/node-sass) ||✅||
 | [npm](https://www.npmjs.com/)            |✅|✅||
 | [nvm](https://github.com/creationix/nvm) |✅|✅|Causes slow Bash start times|
 | [rbenv](https://github.com/rbenv/rbenv)  |✅|✅||
