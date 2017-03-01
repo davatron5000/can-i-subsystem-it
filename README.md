@@ -5,13 +5,17 @@ Compiling a list of web development dependencies and their support on the Window
 | App | Stable | Insider (Fast) | Notes |
 |-----|--------|----------------|-------|
 | [Gulp](http://gulpjs.com/)            |❌|✅||
+| [hub](https://github.com/github/hub)  |❌|❌|[hostname bug](https://github.com/Microsoft/BashOnWindows/issues/562) fixed in Insider, still fails silently|
+| [Hyper](http://hyper.is/)             |❌|❌|[Up arrow doesn't work](https://github.com/zeit/hyper/issues/1127)|
 | [Jekyll](http://jekyllrb.com/)        |❌|✅||
 | [Karma](https://karma-runner.github.io/1.0/index.html) |❌|❌||
+| [LevelDB](https://github.com/level/level) ||✅||
 | [Libsass](http://sass-lang.com/libsass)                ||✅||
 | [n](https://github.com/tj/n)          ||✅||
 | [ngrok](https://ngrok.com/)           |❌|❌||
 | [Node.js](https://nodejs.org/en/)     |❌|✅||
 | [node-sass](https://github.com/sass/node-sass) ||✅||
+| [node-sqlite3](https://github.com/mapbox/node-sqlite3) |❌|❌||
 | [npm](https://www.npmjs.com/)            |✅|✅||
 | [nvm](https://github.com/creationix/nvm) |✅|✅|Causes slow Bash start times|
 | [rbenv](https://github.com/rbenv/rbenv)  |✅|✅||
