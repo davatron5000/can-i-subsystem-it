@@ -23,12 +23,14 @@ Compiling a list of web development dependencies and their support on the Window
 | [node-sqlite3](https://github.com/mapbox/node-sqlite3) |❌|❌||
 | [npm](https://www.npmjs.com/)               |✅|✅||
 | [nvm](https://github.com/creationix/nvm)    |✅|✅|Causes slow Bash start times|
+| [Oh My Zsh](http://ohmyz.sh/)               |✅|✅|Some themes don't render well|
 | [PostgreSQL](https://www.postgresql.org//)  |❌|✅||
 | [rbenv](https://github.com/rbenv/rbenv)     |✅|✅||
 | [Ruby](https://www.ruby-lang.org/)          |✅|✅||
 | [Ruby on Rails](http://rubyonrails.org/)    |✅|✅||
 | [SAMBA](https://www.samba.org/~garming/)    |❌|✅||
 | [sshd](https://en.wikipedia.org/wiki/Secure_Shell) |❌|✅||
+| [zsh](http://www.zsh.org/)                  |✅|✅||
 
 ## Known issues
 There are some known overarching issues that affect a broad range of programs:
