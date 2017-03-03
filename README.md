@@ -7,7 +7,7 @@ Compiling a list of web development dependencies and their support on the Window
 | [Gulp](http://gulpjs.com/)                  |❌|✅||
 | [Haskell](https://blogs.msdn.microsoft.com/commandline/2017/02/09/haskell-on-bashwsl/) |❌|✅||
 | [hub](https://github.com/github/hub)        |❌|❌|[hostname bug](https://github.com/Microsoft/BashOnWindows/issues/562) fixed in Insider, still fails silently|
-| [Hyper](http://hyper.is/)                   |❌|❌|[Up arrow doesn't work](https://github.com/zeit/hyper/issues/1127)|
+| [Hyper](http://hyper.is/)                   |❌|✅|[Up arrow didn't work](https://github.com/zeit/hyper/issues/1127), fixed in Insider|
 | [Java](https://www.java.com/)               |❌|✅||
 | [JDK7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)     |✅|✅||
 | [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)     |❌|✅||
